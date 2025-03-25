@@ -6,3 +6,4 @@ Implemented from scratch, up until now:
   - K-Means
   - Anomaly Detection
   - Linear Regression
+  - Ridge Regression
