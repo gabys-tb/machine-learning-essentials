@@ -7,3 +7,4 @@ Implemented from scratch, up until now:
   - Anomaly Detection
   - Linear Regression
   - Ridge Regression
+  - Lasso Regression
